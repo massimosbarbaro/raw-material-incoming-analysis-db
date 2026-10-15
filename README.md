@@ -1,5 +1,7 @@
 # Materie prime: incoming inspection of raw materials
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23398815.svg)](https://doi.org/10.5281/zenodo.23398815)
+
 *Analisi delle materie prime in arrivo*
 
 **db** · 1998–1999 · version 1.0  
@@ -45,9 +47,9 @@ The database is published **empty**: every table has been emptied, the file comp
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*).
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23398815](https://doi.org/10.5281/zenodo.23398815).
 
-> Sbarbaro, Massimo. 1999. *Materie prime: incoming inspection of raw materials*. Software (db, 1998–1999), version 1.0. GitHub. https://github.com/massimosbarbaro/raw-material-incoming-analysis-db.
+> Sbarbaro, Massimo. 1999. *Materie prime: incoming inspection of raw materials*. Software (db, 1998–1999), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23398815.
 
 ## License
 
