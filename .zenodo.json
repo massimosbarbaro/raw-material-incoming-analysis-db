@@ -1,0 +1,24 @@
+{
+  "title": "Materie prime: incoming inspection of raw materials (db, 1998–1999)",
+  "upload_type": "software",
+  "publication_date": "1999-04-15",
+  "description": "<p><em>Analisi delle materie prime in arrivo</em></p><p>Materie prime records the incoming inspection of the raw materials delivered to a plastics plant: trade name, origin, delivery date, analysis number, lorry plate, lot, number of bags, particle size, sieving, contaminants, the checks performed, the laboratory analyses and the destination silo. The analyses can be searched by name, origin, lot, plate, silo and dispatch.</p><p>Designed and programmed by Massimo Sbarbaro in 1998–1999 (db). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Microsoft Access",
+    "incoming inspection",
+    "raw materials",
+    "quality control",
+    "laboratory",
+    "legacy software"
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "Original development: 1998–1999."
+}
